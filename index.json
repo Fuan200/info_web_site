@@ -26,5 +26,9 @@
                 "url":"/article/herramientas"
             }
         ]
-    }
+    },
+    {
+        "name": "Hola",
+        "icon": "pi pi-fw pi-desktop"
+    ]
 ]
