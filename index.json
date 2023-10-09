@@ -28,7 +28,11 @@
         ]
     },
     {
-        "name": "Hola",
-        "icon": "pi pi-fw pi-desktop"   
+        "name": "Proyectos",
+        "icon": "pi pi-fw pi-pencil"   
+    },
+    {
+        "name":"Nosotros",
+        "icon":"pi pi-fw pi-user"
     }
 ]
