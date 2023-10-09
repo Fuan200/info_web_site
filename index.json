@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Inicio",
+        "icon": "pi pi-fw pi-home",
+        "subtopics": [
+            {
+                "name": "¿Qué es VR?",
+                "url": "/article/que-es-vr"
+            },
+            {
+                "name":"Unity",
+                "url":"/article/unity"
+            },
+        ]
+    },
+    {
+        "name":"Desarrollo VR",
+        "icon": "pi pi-fw pi-desktop",
+        "subtopics":[
+            {
+                "name":"Curso Unity",
+                "url":"/article/curso-unity"
+            },
+            {
+                "name": "Herramientas",
+                "url":"/article/herramientas"
+            }
+        ]
+    }
+]
