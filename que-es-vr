@@ -1,0 +1,15 @@
+{
+    "title": "¿Qué es VR?",
+    "description": "La realidad virtual es bla bla bla",
+    "photo_url": "https://www.obicex.es/sites/obicex/files/styles/blog_desktop/public/images/blog/que-son-las-gafas-realidad-virtual.jpg?itok=HYaGdYZp",
+    "subtopics": [
+        {
+            "title": "Subtema no. 1",
+            "description": "Este es el subtema 1"
+        },
+        {
+            "title": "Subtema no. 2",
+            "description": "Este es el subtema 2"
+        }
+    ]
+}
