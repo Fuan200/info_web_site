@@ -5,9 +5,14 @@
     "subtopics":[
         {
             "title":"Enlace de acceso",
-            "description":"https://learn.unity.com/course/create-with-vr/?tab=overview&uv=2020.3",
-            "textodesc":"Crea con realidad virtual",
-            "url":true
+            "description":"",
+            "urls":[
+                {   
+                    "urlcontent":"https://learn.unity.com/course/create-with-vr/?tab=overview&uv=2020.3",
+                    "urldescription":"",
+                    "urlflag":true
+                }
+            ]
         }
     ]
 }
