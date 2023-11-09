@@ -1,5 +1,9 @@
 [
     {
+        "name": "Inicio",
+        "icon": "pi pi-fw pi-home"
+    },
+    {
         "name":"Desarrollo VR",
         "icon": "pi pi-fw pi-desktop",
         "subtopics":[
