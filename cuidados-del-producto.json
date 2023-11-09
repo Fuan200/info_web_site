@@ -5,12 +5,14 @@
     "subtopics":[
         {
             "title":"Limpieza de las gafas",
-            "description":"Limpieza de los productos",
+            "description":"https://www.meta.com/es-es/help/quest/articles/headsets-and-accessories/product-care-and-best-practices/clean-your-meta-quest/",
+            "textodesc":"Limpieza de los productos Meta Quest",
             "url":true
         },
         {
-            "title":"Protección de las gafas",
-            "description":"https://www.meta.com/es-es/help/quest/articles/headsets-and-accessories/product-care-and-best-practices/clean-your-meta-quest/",
+            "title":"",
+            "description":"https://www.meta.com/es-es/help/quest/articles/headsets-and-accessories/product-care-and-best-practices/keep-quest-2-safe/",
+            "textodesc":"Protege los productos Meta Quest y mantenlos en buen estado",
             "url":true
         }
     ]
