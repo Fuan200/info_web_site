@@ -1,33 +1,11 @@
 [
     {
-        "name": "Inicio",
-        "icon": "pi pi-fw pi-home",
-        "subtopics": [
-            {
-                "name": "¿Qué es VRRRRRRR?",
-                "url": "/article/que-es-vr"
-            },
-            {
-                "name":"Unity",
-                "url":"/article/unity"
-            },
-            {
-                "name":"Gafas de realidad Virtual",
-                "url":"/article/gafas-de-realidad-virtual"
-            }
-        ]
-    },
-    {
         "name":"Desarrollo VR",
         "icon": "pi pi-fw pi-desktop",
         "subtopics":[
             {
                 "name":"Curso Unity",
                 "url":"/article/curso-unity"
-            },
-            {
-                "name": "Herramientas",
-                "url":"/article/herramientas"
             },
             {
                 "name":"Cuidados de seguridad",
@@ -40,7 +18,7 @@
         "icon": "pi pi-fw pi-pencil",
         "subtopics": [
             {
-                "name":"Proyecto 1 Automóvil",
+                "name":"Automóvil",
                 "url":"/article/proyecto-1-automovil"
             }
         ]
@@ -50,8 +28,12 @@
         "icon":"pi pi-fw pi-user",
         "subtopics":[
             {
-                "name":"Creadores Proyecto 1 Automóvil",
-                "url":"/article/creadores-proyecto-1-automovil"
+                "name":"Responsables",
+                "url":"/article/responsables"
+            },
+            {
+                "name":"Estudiantes",
+                "url":"/article/estudiantes"
             }
         ]
     }
