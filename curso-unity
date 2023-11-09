@@ -1,0 +1,11 @@
+{
+    "title":"Curso Unity",
+    "description":"En este curso oficial de Unity, aprenderás a diseñar y desarrollar tus propias aplicaciones de Realidad Virtual (VR). Crearás prototipos, enfrentarás desafíos y completarás cuestionarios para construir y consolidar tus habilidades. Al mismo tiempo, serás guiado a través de la creación de tu propio proyecto de VR único, desde un documento de diseño en blanco hasta un proyecto completamente funcional.",
+    "photo_url":"https://connect-prd-cdn.unity.com/20210203/learn/images/38bf0544-a6da-437c-ae27-a06884b2bea5_02_VR_Basics.jpg",
+    "subtopics":[
+        {
+            "title":"Enlace de acceso",
+            "description":"https://learn.unity.com/course/create-with-vr/?tab=overview&uv=2020.3"
+        }
+    ]
+}
