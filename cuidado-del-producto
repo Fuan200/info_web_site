@@ -4,7 +4,7 @@
     "photo_url":"",
     "subtopics":[
         {
-            "title":"Limpieza de las gafas",
+            "title":"Limpieza del visor",
             "description":"",
             "urls":[
                 {   
@@ -27,12 +27,22 @@
             ]
         },
         {
-            "title":"Protección de las gafas",
+            "title":"Protección del visor",
             "description":"",
             "urls":[
                 {   
-                    "urlcontent":"https://www.meta.com/es-es/help/quest/articles/headsets-and-accessories/product-care-and-best-practices/clean-your-meta-quest/",
-                    "urldescription":"Limpieza de los productos Meta Quest",
+                    "urlcontent":"https://www.meta.com/es-es/help/quest/articles/headsets-and-accessories/product-care-and-best-practices/safely-transport-headset/",
+                    "urldescription":"Transportar de forma segura el dispositivo Meta Quest 2",
+                    "urlflag":true
+                },
+                {
+                    "urlcontent":"https://www.meta.com/es-es/help/quest/articles/headsets-and-accessories/product-care-and-best-practices/avoiding-sunlight-damage/",
+                    "urldescription":"Evitar daños causados por la luz solar en tu visor Meta Quest",
+                    "urlflag":true
+                },
+                {
+                    "urlcontent":"https://www.meta.com/es-la/help/quest/articles/headsets-and-accessories/product-care-and-best-practices/maximize-battery-life/",
+                    "urldescription":"Prolongar la duración de la batería del visor Meta Quest",
                     "urlflag":true
                 }
             ]
