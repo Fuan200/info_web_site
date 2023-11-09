@@ -3,18 +3,6 @@
         "name": "Inicio",
         "icon": "pi pi-fw pi-home",
         "subtopics": [
-            {
-                "name": "¿Qué es VRRRRRRR?",
-                "url": "/article/que-es-vr"
-            },
-            {
-                "name":"Unity",
-                "url":"/article/unity"
-            },
-            {
-                "name":"Gafas de realidad Virtual",
-                "url":"/article/gafas-de-realidad-virtual"
-            }
         ]
     },
     {
@@ -26,8 +14,8 @@
                 "url":"/article/curso-unity"
             },
             {
-                "name":"Cuidados de seguridad",
-                "url": "/article/cuidados-de-seguridad"
+                "name":"Cuidado del producto",
+                "url": "/article/cuidado-del-producto"
             }
         ]
     },
