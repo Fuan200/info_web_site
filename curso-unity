@@ -5,7 +5,8 @@
     "subtopics":[
         {
             "title":"Enlace de acceso",
-            "description":"https://learn.unity.com/course/create-with-vr/?tab=overview&uv=2020.3"
+            "description":"https://learn.unity.com/course/create-with-vr/?tab=overview&uv=2020.3",
+            "url":true
         }
     ]
 }
