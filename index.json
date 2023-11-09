@@ -1,7 +1,21 @@
-[
+[ 
     {
         "name": "Inicio",
-        "icon": "pi pi-fw pi-home"
+        "icon": "pi pi-fw pi-home",
+        "subtopics": [
+            {
+                "name": "¿Qué es VRRRRRRR?",
+                "url": "/article/que-es-vr"
+            },
+            {
+                "name":"Unity",
+                "url":"/article/unity"
+            },
+            {
+                "name":"Gafas de realidad Virtual",
+                "url":"/article/gafas-de-realidad-virtual"
+            }
+        ]
     },
     {
         "name":"Desarrollo VR",
@@ -23,7 +37,7 @@
         "subtopics": [
             {
                 "name":"Automóvil",
-                "url":"/article/proyecto-1-automovil"
+                "url":"/article/automovil"
             }
         ]
     },
