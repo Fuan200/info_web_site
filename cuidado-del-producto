@@ -5,15 +5,38 @@
     "subtopics":[
         {
             "title":"Limpieza de las gafas",
-            "description":"https://www.meta.com/es-es/help/quest/articles/headsets-and-accessories/product-care-and-best-practices/clean-your-meta-quest/",
-            "textodesc":"Limpieza de los productos Meta Quest",
-            "url":true
+            "description":"",
+            "urls":[
+                {   
+                    "urlcontent":"https://www.meta.com/es-es/help/quest/articles/headsets-and-accessories/product-care-and-best-practices/clean-your-meta-quest/",
+                    "urldescription":"Limpieza de los productos Meta Quest",
+                    "urlflag":true
+                },
+                {   
+                    "urlcontent":"https://www.meta.com/es-es/help/quest/articles/headsets-and-accessories/product-care-and-best-practices/keep-quest-2-safe/",
+                    "urldescription":"Protege los productos Meta Quest y mantenlos en buen estado",
+                    "urlflag":true
+                },
+                {   
+                    "urlcontent":"https://www.meta.com/es-es/help/quest/articles/headsets-and-accessories/product-care-and-best-practices/adjust-and-clean-straps/",
+                    "urldescription":"Configurar y limpiar las correas de tus Meta Quest 2",
+                    "urlflag":true
+                }
+
+
+            ]
         },
         {
-            "title":"fdvdfvdf",
-            "description":"https://www.meta.com/es-es/help/quest/articles/headsets-and-accessories/product-care-and-best-practices/keep-quest-2-safe/",
-            "textodesc":"Protege los productos Meta Quest y mantenlos en buen estado",
-            "url":true
+            "title":"Protección de las gafas",
+            "description":"",
+            "urls":[
+                {   
+                    "urlcontent":"https://www.meta.com/es-es/help/quest/articles/headsets-and-accessories/product-care-and-best-practices/clean-your-meta-quest/",
+                    "urldescription":"Limpieza de los productos Meta Quest",
+                    "urlflag":true
+                }
+            ]
         }
+
     ]
 }
