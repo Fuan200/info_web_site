@@ -1,0 +1,17 @@
+{
+    "title":"Cuidado Del Producto",
+    "description":"",
+    "photo_url":"",
+    "subtopics":[
+        {
+            "title":"Limpieza de las gafas",
+            "description":"Limpieza de los productos",
+            "url":true
+        },
+        {
+            "title":"Protección de las gafas",
+            "description":"https://www.meta.com/es-es/help/quest/articles/headsets-and-accessories/product-care-and-best-practices/clean-your-meta-quest/",
+            "url":true
+        }
+    ]
+}
