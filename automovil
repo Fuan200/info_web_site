@@ -1,0 +1,18 @@
+{
+    "title":"Automovil",
+    "description":"Contenido",
+    "photo_url":"",
+    "subtopics":[
+        {
+            "title":"",
+            "description":"",
+            "urls":[
+                {   
+                    "urlcontent":"",
+                    "urldescription":"",
+                    "urlflag":true
+                }
+            ]
+        }
+    ]
+}
