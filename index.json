@@ -2,7 +2,6 @@
     {
         "name": "Inicio",
         "icon": "pi pi-fw pi-home",
-        "url":"/home",
         "subtopics": [
         ]
     },
