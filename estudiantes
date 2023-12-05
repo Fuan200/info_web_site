@@ -5,11 +5,26 @@
     "subtopics":[
         {
             "title":"",
-            "description":"Samuel Sánchez Tarango",
+            "description":"",
             "urls":[
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
-                    "urldescription":"",
+                    "urldescription":"Samuel Sánchez Tarango",
+                    "urlflag":false
+                },
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Denzel Alexander Muñoz Santana",
+                    "urlflag":false
+                },
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Juan Antonio Díaz Fernández",
+                    "urlflag":false
+                },
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Anahí Peinado Villalobos",
                     "urlflag":false
                 }
             ]
