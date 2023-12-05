@@ -2,5 +2,17 @@
     "title":"Estudiantes",
     "description":"Conoce a los estudiantes encargados en la construcción de proyectos.<br><br>Samuel Sánchez Tarango<br><br>Denzel Alexander Muñoz Santana<br><br>Juan Antonio Díaz Fernández<br><br>Anahí Peinado Villalobos",
     "photo_url":"",
-    "subtopics":[]
+    "subtopics":[
+        {
+            "title":"",
+            "description":"Samuel Sánchez Tarango",
+            "urls":[
+                {   
+                    "urlcontent":"",
+                    "urldescription":"",
+                    "urlflag":false
+                }
+            ]
+        }
+    ]
 }
