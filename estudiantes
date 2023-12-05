@@ -1,6 +1,6 @@
 {
     "title":"Estudiantes",
-    "description":"Conoce a los estudiantes encargados en la construcción de proyectos.<br><br>Samuel Sánchez Tarango<br><br>Denzel Alexander Muñoz Santana<br><br>Juan Antonio Díaz Fernández<br><br>Anahí Peinado Villalobos",
+    "description":"Conoce a los estudiantes encargados en la construcción de proyectos.",
     "photo_url":"",
     "subtopics":[
         {
@@ -20,6 +20,26 @@
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
                     "urldescription":"Juan Antonio Díaz Fernández",
+                    "urlflag":false
+                },
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Anahí Peinado Villalobos",
+                    "urlflag":false
+                },
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Anahí Peinado Villalobos",
+                    "urlflag":false
+                },
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Anahí Peinado Villalobos",
+                    "urlflag":false
+                },
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Anahí Peinado Villalobos",
                     "urlflag":false
                 },
                 {   
