@@ -9,7 +9,7 @@
             "urls":[
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/estudiantes/estudianteSamuelSanchezTarango.jpeg?raw=true",
-                    "urldescription":"Samuel Sánchez Tarango.Estudiante Ing.Ciencias Computacionales",
+                    "urldescription":"Samuel Sánchez Tarango.<br>Estudiante Ing.Ciencias Computacionales",
                     "urlflag":false
                 },
                 {   
@@ -25,26 +25,6 @@
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/estudiantes/estudianteAnah%C3%ADPeinadoVillalobos.jpeg?raw=true",
                     "urldescription":"Anahí Peinado Villalobos.Estudiante Ing.Ciencias Computacionales",
-                    "urlflag":false
-                },
-                {   
-                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
-                    "urldescription":"Anahí Peinado Villalobos",
-                    "urlflag":false
-                },
-                {   
-                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
-                    "urldescription":"Anahí Peinado Villalobos",
-                    "urlflag":false
-                },
-                {   
-                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
-                    "urldescription":"Anahí Peinado Villalobos",
-                    "urlflag":false
-                },
-                {   
-                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
-                    "urldescription":"Anahí Peinado Villalobos",
                     "urlflag":false
                 }
             ]
