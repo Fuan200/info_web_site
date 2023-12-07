@@ -1,4 +1,5 @@
 {
+    
     "title":"Estudiantes",
     "description":"Conoce a los estudiantes encargados en la construcción de proyectos.",
     "photo_url":"",
@@ -9,22 +10,22 @@
             "urls":[
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/estudiantes/estudianteSamuelSanchezTarango.jpeg?raw=true",
-                    "urldescription":"Samuel Sánchez Tarango.<br>Estudiante Ing.Ciencias Computacionales",
+                    "urldescription":"Samuel Sánchez Tarango.\nEstudiante Ing.Ciencias Computacionales",
                     "urlflag":false
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/estudiantes/estudianteDenzelAlexanderMu%C3%B1ozSantana.jpeg?raw=true",
-                    "urldescription":"Denzel Alexander Muñoz Santana.Estudiante Ing.Ciencias Computacionales",
+                    "urldescription":"Denzel Alexander Muñoz Santana.\nEstudiante Ing.Ciencias Computacionales",
                     "urlflag":false
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
-                    "urldescription":"Juan Antonio Díaz Fernández.Estudiante Ing.Ciencias Computacionales",
+                    "urldescription":"Juan Antonio Díaz Fernández.\nEstudiante Ing.Ciencias Computacionales",
                     "urlflag":false
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/estudiantes/estudianteAnah%C3%ADPeinadoVillalobos.jpeg?raw=true",
-                    "urldescription":"Anahí Peinado Villalobos.Estudiante Ing.Ciencias Computacionales",
+                    "urldescription":"Anahí Peinado Villalobos.\nEstudiante Ing.Ciencias Computacionales",
                     "urlflag":false
                 }
             ]
