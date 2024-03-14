@@ -1,9 +1,30 @@
 {
-     
+    "type": "COLLABORATORS",
     "title":"Grupo de Estudio",
-    "description":"Conoce a los estudiantes encargados en la construcción de proyectos.",
+    "subtitle_current_students":"Grupo Actual de Colaboradores",
+    "subtitle_old_students":"Grupo de Anteriores de Colaboradores",
+    "description_current_students":"Conoce a los colaboradores actuales encargados en la construcción de proyectos.",
+    "description_old_students":"Conoce a los antiguos colaboradres encargados en la construcción de proyectos",
     "photo_url":"",
-    "subtopics":[
+    "subtopics_new":[
+        {
+            "title":"",
+            "description":"",
+            "urls":[
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Adela Guadalupe Almazán López. Tesis: Sistema de realidad virtual para terapia de señales sociales en niños con niños con trastorno del espectro autista",
+                    "urlflag":false
+                },
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Gilberto Erosa González.    Tesis: Recomendaciones de música multimodal para adultos jóvenes.",
+                    "urlflag":false
+                }
+            ]
+        }
+    ],
+    "subtopics_old":[
         {
             "title":"",
             "description":"",
@@ -25,7 +46,47 @@
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/estudianteAPV.jpeg?raw=true",
-                    "urldescription":"Anahí Peinado Villalobos Estudiante Ing. Ciencias Computacionales",
+                    "urldescription":"Anahí Peinado Villalobos Estudiante <br>Ing. Ciencias Computacionales",
+                    "urlflag":false
+                },
+{   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Leonor M. Duque Fernández. Tesis: Proposal for a recreational physical activity program for older adults through serious video games",
+                    "urlflag":false
+                },
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Jesús S. Sierra Arballo. Tesis: Interactive system to support medication adherence in older adults",
+                    "urlflag":false
+                },
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Irving S. Arrieta Carbajal. Tesis: Design and development of an emotion monitoring application in recreational therapy environments",
+                    "urlflag":false
+                },
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Jorge Alejandro Romero García. Actual trabajo:  Software engineer at Google",
+                    "urlflag":false
+                },
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Julieta Navarro Rivera. Actual trabajo: Software engineer at Etsy",
+                    "urlflag":false
+                },
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Oscar E. Ordoñez Medina. Actual trabajo: Software engineer at Oracle",
+                    "urlflag":false
+                },
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Erika Y. Torres Torres. Actual trabajo: Power Bi Expert at Align Aerospace",
+                    "urlflag":false
+                },
+                {   
+                    "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/imagenprueba.jpeg?raw=true",
+                    "urldescription":"Giovanny A. Chávez Cisneros. Actual trabajo: Web developer at Grupo Gardea",
                     "urlflag":false
                 }
             ]
