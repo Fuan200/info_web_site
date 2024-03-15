@@ -15,12 +15,13 @@
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/actuales/estudianteAGAL.png?raw=true",
                     "urldescription":"Adela Guadalupe Almazán López. Título de la investigación: Sistema de realidad virtual para terapia de señales sociales en niños con trastorno del espectro autista.",
                     "urlflag":false,
-                    "githubUrl":"https://www.linkedin.com/in/adelaalmazan/"
+                    "urlpersonal":"https://www.linkedin.com/in/adelaalmazan/"
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/actuales/estudianteGEG.jpeg?raw=true",
                     "urldescription":"Gilberto Erosa González. Título de la investigación: Recomendaciones musicales multimodales para adultos jóvenes",
-                    "urlflag":false
+                    "urlflag":false,
+                    "urlpersonal":"https://www.linkedin.com/in/gilberto-erosa-gonz%C3%A1lez-7961a01b1/"
                 }
             ]
         }
@@ -33,62 +34,74 @@
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/antiguos/estudianteSST.jpeg?raw=true",
                     "urldescription":"Samuel Sánchez Tarango Estudiante Ing. Ciencias Computacionales",
-                    "urlflag":false
+                    "urlflag":false,
+                    "urlpersonal":"https://github.com/Taimander"
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/antiguos/estudianteDAMS.jpeg?raw=true",
                     "urldescription":"Denzel Alexander Muñoz Santana Estudiante Ing. Ciencias Computacionales",
-                    "urlflag":false
+                    "urlflag":false,
+                    "urlpersonal":"https://github.com/Denzypaulito"
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/antiguos/estudianteJADF.jpeg?raw=true",
                     "urldescription":"Juan Antonio Díaz Fernández Estudiante Ing. Ciencias Computacionales",
-                    "urlflag":false
+                    "urlflag":false,
+                    "urlpersonal":"https://github.com/Fuan200"
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/antiguos/estudianteAPV.jpeg?raw=true",
                     "urldescription":"Anahí Peinado Villalobos Estudiante <br>Ing. Ciencias Computacionales",
-                    "urlflag":false
+                    "urlflag":false,
+                    "urlpersonal":"https://github.com/anahipeinadovi"
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/antiguos/estudianteLMDF.png?raw=true",
                     "urldescription":"Leonor M. Duque Fernández. Tesis: Propuesta de un programa de actividad física lúdica para adultos mayores mediante videojuegos serios",
-                    "urlflag":false
+                    "urlflag":false,
+                    "urlpersonal":"https://www.linkedin.com/in/leonor-mariana-duque-fern%C3%A1ndez-b1328b140/"
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/antiguos/estudianteJSSA.png?raw=true",
                     "urldescription":"Jesús S. Sierra Arballo. Tesis: Sistema interactivo para apoyar la adherencia a la medicación en adultos mayores",
-                    "urlflag":false
+                    "urlflag":false,
+                    "urlpersonal":"https://www.linkedin.com/in/jesus-sierra-arballo"
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/antiguos/estudianteISAC.png?raw=true",
                     "urldescription":"Irving S. Arrieta Carbajal. Tesis: Diseño y desarrollo de una aplicación de monitorización de emociones en entornos de terapia recreativa.",
-                    "urlflag":false
+                    "urlflag":false,
+                    "urlpersonal":""
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/antiguos/estudianteJARG.jpeg?raw=true",
                     "urldescription":"Jorge Alejandro Romero García. Trabajo Actual: Ingeniero de software en Google",
-                    "urlflag":false
+                    "urlflag":false,
+                    "urlpersonal":""
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/antiguos/estudianteJNR.jpeg?raw=true",
                     "urldescription":"Julieta Navarro Rivera. Trabajo actual:  Ingeniera de software en Etsy",
-                    "urlflag":false
+                    "urlflag":false,
+                    "urlpersonal":"https://www.linkedin.com/in/devjuliet/"
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/antiguos/estudianteOEOM.jpeg?raw=true",
                     "urldescription":"Oscar E. Ordoñez Medina. Trabajo actual: Ingeniero de software en Oracle",
-                    "urlflag":false
+                    "urlflag":false,
+                    "urlpersonal":"https://www.linkedin.com/in/oordoez/"
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/antiguos/estudianteEYTT.jpeg?raw=true",
                     "urldescription":"Erika Y. Torres Torres. Trabajo actual: Experta en Power Bi Expert en Align Aerospace",
-                    "urlflag":false
+                    "urlflag":false,
+                    "urlpersonal":"https://www.linkedin.com/in/erika-torres-730b26205"
                 },
                 {   
                     "urlcontent":"https://github.com/Fuan200/info_web_site/blob/main/img/antiguos/estudianteGACC.jpeg?raw=true",
                     "urldescription":"Giovanny A. Chávez Cisneros. Trabajo actual: Desarrollador en Grupo Gardea",
-                    "urlflag":false
+                    "urlflag":false,
+                    "urlpersonal":"https://www.linkedin.com/in/giovanny-alfonso-ch%C3%A1vez-ceniceros-4b3793192/"
                 }
             ]
         }
